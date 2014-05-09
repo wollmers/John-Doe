@@ -1,14 +1,14 @@
 # NAME
 
-File::Name::Check - Check file names
+John::Doe - Test case duplicate file names in distribution
 
 # SYNOPSIS
 
-    
+    use John::doe;
 
 # DESCRIPTION
 
-File::Name::Check is a collection of utilities to check against restrictions of some environments.
+Don't install or use it, it is BROKEN by intent.
 
 # AUTHOR
 
