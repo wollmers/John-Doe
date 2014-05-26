@@ -19,11 +19,17 @@ John::Doe - Test case duplicate file names in distribution
 
 =head1 SYNOPSIS
 
-  use John::doe;
+  use John::Doe;
 
 =head1 DESCRIPTION
 
-Don't install or use it, it is BROKEN by intent.
+Don't install or use it, except for testing module toolchains.
+
+This distribution contains files in C<lib/>, C<t/> and C<share/> written in case variants.
+
+At the time of release version 0.00 this distribution builds and passes all tests.
+
+On environments with case insensitive filenames only one variant of the files survives.
 
 =head1 AUTHOR
 

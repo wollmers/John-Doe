@@ -23,7 +23,7 @@ John::DOE - Test case duplicate file names in distribution
 
 =head1 DESCRIPTION
 
-Don't install or use it, it is BROKEN by intent.
+All uppercase variant of John::Doe.
 
 =head1 AUTHOR
 
