@@ -4,7 +4,7 @@
       "Helmut Wollmersdorfer <helmut.wollmersdorfer@gmx.at>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Milla version v1.0.4, Dist::Zilla version 5.006, CPAN::Meta::Converter version 2.132830",
+   "generated_by" : "Dist::Milla version v1.0.4, Dist::Zilla version 5.019, CPAN::Meta::Converter version 2.132830",
    "license" : [
       "perl_5"
    ],
@@ -26,7 +26,7 @@
    "prereqs" : {
       "configure" : {
          "requires" : {
-            "Module::Build::Tiny" : "0.035"
+            "Module::Build::Tiny" : "0.036"
          }
       },
       "develop" : {
@@ -57,6 +57,6 @@
          "web" : "https://github.com/wollmers/John-Doe"
       }
    },
-   "version" : "0.00"
+   "version" : "0.01"
 }
 
